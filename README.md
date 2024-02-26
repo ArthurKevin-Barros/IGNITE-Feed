@@ -11,13 +11,10 @@
 
 <!--END_SECTION:footer-->
 
-<img src="./Ignitefeed.png">
+<img src="./Ignite Feed (Community) (1).png">
 
 
-## 💻 Projeto
-
-ignite-reactjs-01-fundamentos-react
-
+## 💻 Projeto React + TS.
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -25,13 +22,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+  JESUS IS KING. 👑
 </p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<!-- // JESUS IS KING. -->
